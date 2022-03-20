@@ -1,0 +1,11 @@
+
+  .hero-detail input{
+    border-radius: 30px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 20px;
+    color: #336699;
+   }
+   .hero-detail {
+     padding-left: 0px;
+   }
